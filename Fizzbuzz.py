@@ -1,4 +1,4 @@
-# FizzBuzz challenge 3/8/2024, INFOTC 4320, Devon Landry
+# FizzBuzz challenge 3/8/2024, INFOTC 4320
 def fizzbuzz():
     for num in range(1, 101):  # Iterate over numbers from 1 to 100
         if num % 3 == 0 and num % 5 == 0:  # Check if number is divisible by both 3 and 5
